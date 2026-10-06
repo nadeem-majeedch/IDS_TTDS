@@ -1,6 +1,6 @@
-# Introduction to Data Science
+# Introduction to Data Science | Tools and Techniques in Data Science
 
-Welcome to the official repository for **Introduction to Data Science**. This course introduces the foundational concepts, tools, and methodologies required to turn raw, complex data into actionable, real-world insights.
+Welcome to the official repository for **Introduction to Data Science |  Tools and Techniques in Data Science**. This course introduces the foundational concepts, tools, and methodologies required to turn raw, complex data into actionable, real-world insights.
 
 ## 📖 Course Overview
 This course provides a comprehensive introduction to the data science lifecycle. Students will learn how to combine mathematics, statistics, and computer programming to extract meaning from data, build predictive models, and effectively communicate findings.
