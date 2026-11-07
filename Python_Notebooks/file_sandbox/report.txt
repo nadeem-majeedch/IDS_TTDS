@@ -1,0 +1,7 @@
+Student    Marks
+----------------
+Ali           78
+Sara          91
+Omar          84
+----------------
+Class average: 84.3

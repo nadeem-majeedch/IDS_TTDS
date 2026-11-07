@@ -1,0 +1,3 @@
+finish module 11 exercises
+review slicing rules
+sleep

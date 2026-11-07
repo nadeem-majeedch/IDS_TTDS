@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Ali",
+        "roll_no": "DS-101",
+        "marks": 78,
+        "subjects": [
+            "math",
+            "cs"
+        ]
+    },
+    {
+        "name": "Sara",
+        "roll_no": "DS-102",
+        "marks": 91,
+        "subjects": [
+            "math",
+            "cs",
+            "stats"
+        ]
+    }
+]

@@ -1,0 +1,6 @@
+apple
+banana
+mango
+kiwi
+plum
+fig

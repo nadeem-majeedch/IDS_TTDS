@@ -1,0 +1,21 @@
+{
+    "statistics": {
+        "count": 6,
+        "average": 72.5,
+        "highest": 91,
+        "lowest": 45
+    },
+    "grades": {
+        "A": 2,
+        "B": 3,
+        "C": 0,
+        "F": 1
+    },
+    "top": [
+        "Sara",
+        "Hina"
+    ],
+    "at_risk": [
+        "Omar"
+    ]
+}
